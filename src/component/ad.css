@@ -1,0 +1,26 @@
+#add {
+    width: 1920px;
+    height: 340px;
+    margin-bottom: 0;
+
+
+}
+
+#bt {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    font-size: 150px;
+    text-align: center;
+    border-radius: 30px;
+
+}
+
+#pas {
+    background-color: rgb(201, 238, 226);
+    ;
+    margin-top: 90px;
+    width: 1920px;
+    height: 30px;
+
+}
